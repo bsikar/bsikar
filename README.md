@@ -4,9 +4,9 @@
 <br/>
 
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
-I am currently as of writing this (2021) a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
-I love using linux and distrohopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
-My computer and linux specs as of writing this are:<br/>
+I am currently, as of writing this (2021), a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
+I love using Linux and distro hopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
+My computer and Linux specs as of writing this are:<br/>
 <code>Distro: Artix Linux</code><br/>
 <code>Kernel: Linux 5.10.14-artix1-1</code><br/>
 <code>Terminal: st</code><br/>
