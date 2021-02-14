@@ -22,6 +22,8 @@ My computer and linux specs as of writing this are:<br/>
 <code>Browser: Brave</code><br/>
 <code>C Compiler: clang</code><br/>
 <code>Tabs/Spaces: 4 spaces = 1 tab</code><br/>
+<code>AUR Helper: Paru</code><br/>
+<code>su: doas</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="message icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/message.png"/></code> Ask me about anything [here](https://github.com/pissmilk/pissmilk/issues)
