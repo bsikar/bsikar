@@ -1,6 +1,6 @@
 ### Hi there, I'm Brighton 👋
 
-<code><img alt="Brighton's Discord" height="20" with="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/discord-round.svg"/></code> Pissmilk#2135
+<code><img alt="Brighton's Discord" with="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/discord-round.svg"/></code> Pissmilk#2135
 
 <br/>
 <br/>
@@ -8,7 +8,7 @@
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
 I am currently as of writing this (2021) a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
 
-- <code><img alt="rust icon" height="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> I’m currently learning Rust
+- <code><img alt="rust icon" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> I’m currently learning Rust
 - 💬 Ask me about anything [here](https://github.com/pissmilk/pissmilk/issues)
 
 **Languages:**  
