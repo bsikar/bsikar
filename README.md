@@ -25,6 +25,7 @@ My computer and Linux specs as of writing this are:<br/>
 <code>Tabs/Spaces: 4 spaces = 1 tab</code><br/>
 <code>AUR Helper: Paru</code><br/>
 <code>su: doas</code><br/>
+<code>Email Provider: Tutanota</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/Haskell.svg"/></code> I want to learn Haskell
