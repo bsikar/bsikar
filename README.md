@@ -1,8 +1,6 @@
 ### Hi there, I'm Brighton 👋
 
 <code><img alt="Brighton's Discord" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/discord-round.svg"/></code> Pissmilk#2135
-
-<br/>
 <br/>
 
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
