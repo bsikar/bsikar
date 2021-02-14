@@ -5,9 +5,26 @@
 
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
 I am currently as of writing this (2021) a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
+I love using linux and distrohopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
+My computer and linux specs as of writing this are:<br/>
+<code>Distro: Artix Linux</code><br/>
+<code>Kernel: Linux 5.10.14-artix1-1</code><br/>
+<code>Terminal: st</code><br/>
+<code>Editor: vim</code><br/>
+<code>Shell: zsh</code><br/>
+<code>DE/WM: dwm</code><br/>
+<code>Bar: dwm bar</code><br/>
+<code>Resolution: 2560x1440, 2560x1440</code><br/>
+<code>Display Protocol: x11</code><br/>
+<code>CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz</code><br/>
+<code>GPU: UHD Graphics 630</code><br/>
+<code>Memory: 16 GB @ 2133 MT/s</code><br/>
+<code>Browser: Brave</code><br/>
+<code>C Compiler: clang</code><br/>
+<code>Tabs/Spaces: 4 spaces = 1 tab</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> I’m currently learning Rust
-- 💬 Ask me about anything [here](https://github.com/pissmilk/pissmilk/issues)
+- <code><img alt="message icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/message.png"/></code> Ask me about anything [here](https://github.com/pissmilk/pissmilk/issues)
 
 **Languages:**  
 
