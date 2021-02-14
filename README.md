@@ -14,6 +14,7 @@ My computer and linux specs as of writing this are:<br/>
 <code>Shell: zsh</code><br/>
 <code>DE/WM: dwm</code><br/>
 <code>Bar: dwm bar</code><br/>
+<code>Application Launcher: dmenu</code><br/>
 <code>Resolution: 2560x1440, 2560x1440</code><br/>
 <code>Display Protocol: x11</code><br/>
 <code>CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz</code><br/>
