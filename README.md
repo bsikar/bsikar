@@ -13,7 +13,7 @@ My computer and Linux specs as of writing this are:<br/>
 <code>Editor: vim</code><br/>
 <code>Shell: zsh</code><br/>
 <code>DE/WM: dwm</code><br/>
-<code>Bar: dwm bar</code><br/>
+<code>Bar: dwmstatus</code><br/>
 <code>Application Launcher: dmenu</code><br/>
 <code>Resolution: 2560x1440, 2560x1440</code><br/>
 <code>Display Protocol: x11</code><br/>
