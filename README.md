@@ -39,6 +39,18 @@ My computer and Linux specs as of writing this are:<br/>
 <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/java.svg"></code>
 <code><img alt="python icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/python.svg"></code>
 
+**What I am currently working on:**</br>
+*For School:*
+- <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/java.svg"></code> [CodeHs](https://github.com/pissmilk/CSA-CodeHS)
+- <code><img alt="javascript icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/javascript.svg"></code> [Code.org](https://github.com/pissmilk/CSP-code.org)
+- <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/java.svg"></code> [CodingBat.com](https://github.com/pissmilk/Java-CodingBat)
+- <code><img alt="python icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/python.svg"></code>
+ [CodingBat.com](https://github.com/pissmilk/Python-CodingBat)
+
+*For my own benifit:*
+- <code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/c.svg"></code> [K&R](https://github.com/pissmilk/K_and_R)
+- <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/pissmilk/pissmilk/main/icons/rust.svg"/></code> [Rustlings Exercises](https://github.com/pissmilk/my_rustlings_answers)
+
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=pissmilk&show_icons=true&theme=dark"/></a>
 <a><img align="center" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pissmilk&layout=compact&langs_count=8&theme=dark"/></a>
 
