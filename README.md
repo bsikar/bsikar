@@ -1,8 +1,5 @@
 ### Hi there, I'm Brighton 👋
 
-<code><img alt="Brighton's Discord" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/discord-round.svg"/></code> Pissmilk#2135
-<br/>
-
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
 I am currently, as of writing this (2021), a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
 I love using Linux and distro hopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
@@ -26,6 +23,8 @@ My computer and Linux specs as of writing this are:<br/>
 <code>AUR Helper: Paru</code><br/>
 <code>su: doas</code><br/>
 <code>Email Provider: Tutanota</code><br/>
+<code>Email: brighton.sikarskie@tuta.io</code><br/>
+<code>Discord: Pissmilk#2135</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
