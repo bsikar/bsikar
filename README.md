@@ -12,10 +12,10 @@ My computer and Linux specs as of writing this are:<br/>
 <code>DE/WM: dwm</code><br/>
 <code>Bar: dwmstatus</code><br/>
 <code>Application Launcher: dmenu</code><br/>
-<code>Resolution: 2560x1440, 2560x1440</code><br/>
+<code>Resolution: 2560x1440, 2560x1440,1080x1920</code><br/>
 <code>Display Protocol: x11</code><br/>
 <code>CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz</code><br/>
-<code>GPU: UHD Graphics 630</code><br/>
+<code>GPU: FirePro V7900</code><br/>
 <code>Memory: 16 GB @ 2133 MT/s</code><br/>
 <code>Browser: Brave</code><br/>
 <code>C Compiler: clang</code><br/>
@@ -24,6 +24,7 @@ My computer and Linux specs as of writing this are:<br/>
 <code>su: doas</code><br/>
 <code>Email Provider: Tutanota</code><br/>
 <code>Discord: Pissmilk#2135</code><br/>
+<code>Audio: pulseeffects</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
