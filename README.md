@@ -49,7 +49,7 @@ My computer and Linux specs as of writing this are:<br/>
 *For my own benifit:*
 - <code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/c.svg"></code> [K&R](https://github.com/bsikar/K_and_R)
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> [Rustlings Exercises](https://github.com/bsikar/my_rustlings_answers)
-- <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> [Rustlings Exercises](https://github.com/bsikar/CodeAbbey)
+- <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> [CodeAbbey](https://github.com/bsikar/CodeAbbey)
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=bsikar&show_icons=true&theme=dark"/></a>
 <a><img align="center" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsikar&layout=compact&langs_count=8&theme=dark"/></a>
