@@ -30,7 +30,7 @@ My computer and Linux specs as of writing this are:<br/>
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
 - <code><img alt="message icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/message.png"/></code> Ask me about anything [here](https://github.com/bsikar/bsikar/issues)
 
-**Languages:**  
+**Languages:**
 
 <code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/c.svg"></code>
 <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"></code>
