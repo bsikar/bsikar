@@ -25,6 +25,8 @@ My computer and Linux specs as of writing this are:<br/>
 <code>Email Provider: Tutanota</code><br/>
 <code>Audio: pulseeffects</code><br/>
 <code>Laptop: ThinkPad T430</code><br/>
+<code>Keyboard Layout: qwerty, colemak_dh</code><br/>
+<code>Keyboard specs: bm60rgb, box jades, aluminum plate, maxkey keycaps</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
