@@ -23,7 +23,6 @@ My computer and Linux specs as of writing this are:<br/>
 <code>AUR Helper: Paru</code><br/>
 <code>su: doas</code><br/>
 <code>Email Provider: Tutanota</code><br/>
-<code>Discord: Pissmilk#2135</code><br/>
 <code>Audio: pulseeffects</code><br/>
 <code>Laptop: ThinkPad T430</code><br/>
 
