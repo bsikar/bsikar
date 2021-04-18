@@ -3,30 +3,6 @@
 Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
 I am currently, as of writing this (2021), a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
 I love using Linux and distro hopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
-My computer and Linux specs as of writing this are:<br/>
-<code>Distro: Artix Linux</code><br/>
-<code>Kernel: Linux 5.10.14-artix1-1</code><br/>
-<code>Terminal: st</code><br/>
-<code>Editor: vim</code><br/>
-<code>Shell: zsh</code><br/>
-<code>DE/WM: dwm</code><br/>
-<code>Bar: dwmstatus</code><br/>
-<code>Application Launcher: dmenu</code><br/>
-<code>Resolution: 2560x1440, 2560x1440, 1080x1920</code><br/>
-<code>Display Protocol: x11</code><br/>
-<code>CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz</code><br/>
-<code>GPU: FirePro V7900</code><br/>
-<code>Memory: 16 GB @ 2133 MT/s</code><br/>
-<code>Browser: Brave</code><br/>
-<code>C Compiler: clang</code><br/>
-<code>Tabs/Spaces: 4 spaces = 1 tab</code><br/>
-<code>AUR Helper: Paru</code><br/>
-<code>su: doas</code><br/>
-<code>Email Provider: Tutanota</code><br/>
-<code>Audio: pulseeffects</code><br/>
-<code>Laptop: ThinkPad T430</code><br/>
-<code>Keyboard Layout: qwerty, colemak_dh</code><br/>
-<code>Keyboard specs: bm60rgb, box jades, aluminum plate, maxkey keycaps</code><br/>
 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
