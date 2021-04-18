@@ -12,7 +12,7 @@ My computer and Linux specs as of writing this are:<br/>
 <code>DE/WM: dwm</code><br/>
 <code>Bar: dwmstatus</code><br/>
 <code>Application Launcher: dmenu</code><br/>
-<code>Resolution: 2560x1440, 2560x1440,1080x1920</code><br/>
+<code>Resolution: 2560x1440, 2560x1440, 1080x1920</code><br/>
 <code>Display Protocol: x11</code><br/>
 <code>CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz</code><br/>
 <code>GPU: FirePro V7900</code><br/>
