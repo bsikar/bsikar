@@ -1,6 +1,6 @@
 ### Hi there, I'm Brighton 👋
 
-Hi, I'm Brighton Sikarskie, a passionate self-taught kinda trash programmer from America.
+Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America.
 I am currently, as of writing this (2021), a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
 I love using Linux and distro hopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
 
