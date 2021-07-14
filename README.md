@@ -3,9 +3,8 @@
 <details>
 <summary> About Me </summary>
 Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in aerospace, space, os-dev, and improving my skills.
-I am currently, as of writing this (2021), a Junior in High School. I plan on getting a computer science degree or a computer engineering degree.
-I love using Linux and distro hopping; I am currently using Artix Linux with runit, but I am thinking of trying out either Alpine, NixOS, or OpenBSD.
-
+I am currently, as of writing this (2021), a Senior in High School. I plan on double majoring in computer science and computer engineering at Texas ATM.
+ 
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> I’m currently learning Rust
 - <code><img alt="Haskell icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/Haskell.svg"/></code> I want to learn Haskell
 - <code><img alt="message icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/message.png"/></code> Ask me about anything [here](https://github.com/bsikar/bsikar/issues)
@@ -14,12 +13,12 @@ I love using Linux and distro hopping; I am currently using Artix Linux with run
 
 <details>
 <summary> Coding Languages </summary>
-C: <code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/c.svg"></code>
-Rust: <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"></code>
-Cpp: <code><img alt="cpp icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/cpp.svg"></code>
-Java: <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/java.svg"></code>
-Python: <code><img alt="python icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/python.svg"></code>
-JavaScript: <code><img alt="javascript icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/javascript.svg"></code>
+<code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/c.svg"></code> - C</br>
+<code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"></code> - Rust</br>
+<code><img alt="cpp icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/cpp.svg"></code> - C++</br>
+<code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/java.svg"></code> - Java</br>
+<code><img alt="python icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/python.svg"></code> - Python</br>
+ <code><img alt="javascript icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/javascript.svg"></code> - JavaScript</br>
 </details>
 
 
@@ -43,6 +42,6 @@ JavaScript: <code><img alt="javascript icon" height="20" width="20" src="https:/
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=bsikar&show_icons=true&theme=dark"/></a>
 <a><img align="center" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsikar&layout=compact&langs_count=8&theme=dark"/></a>
 </br></br>
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br/>I would say that I am best in this order: Rust > C == C++ == Java > Python == JavaScript
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br/>I would say that I am best in this order: Rust > C > C++ == Java > Python == JavaScript
 </details>
 
