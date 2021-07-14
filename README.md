@@ -28,14 +28,11 @@ JavaScript: <code><img alt="javascript icon" height="20" width="20" src="https:/
  
 *For School:*
 - <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/java.svg"></code> [CodeHs](https://github.com/bsikar/CSA-CodeHS)
-- <code><img alt="javascript icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/javascript.svg"></code> [Code.org](https://github.com/bsikar/CSP-code.org)
 - <code><img alt="java icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/java.svg"></code> [CodingBat.com](https://github.com/bsikar/Java-CodingBat)
 - <code><img alt="python icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/python.svg"></code>
  [CodingBat.com](https://github.com/bsikar/Python-CodingBat)
 
 *For my own benifit:*
-- <code><img alt="c icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/c.svg"></code> [K&R](https://github.com/bsikar/K_and_R)
-- <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> [Rustlings Exercises](https://github.com/bsikar/my_rustlings_answers)
 - <code><img alt="rust icon" height="20" width="20" src="https://raw.githubusercontent.com/bsikar/bsikar/main/icons/rust.svg"/></code> [CodeAbbey](https://github.com/bsikar/CodeAbbey)
 
 </details>
