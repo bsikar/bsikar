@@ -10,6 +10,10 @@ I am currently, as of writing this (2021), a senior in high school. I plan on ma
 - [Scrabble Game](https://github.com/bsikar/scrabble)
 - [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
 
+<h2>Semi-Active Projects</h2>
+
+- [Window manager](https://github.com/bsikar/windex)
+
 <h2>Finished Projects</h2>
 
 - [Tetris](https://github.com/bsikar/tetris)
@@ -21,4 +25,3 @@ I am currently, as of writing this (2021), a senior in high school. I plan on ma
 <h2>Abandended Projects that I will return to</h2>
 
 - [CLI Todo manager](https://github.com/bsikar/voodo)
-- [Window manager](https://github.com/bsikar/windex)
