@@ -25,3 +25,12 @@ I am currently, as of writing this (2021), a senior in high school. I plan on ma
 <h2>Abandended Projects that I will return to</h2>
 
 - [CLI Todo manager](https://github.com/bsikar/voodo)
+
+<h2>Future Projects that I want to work on*</h2>
+
+- [path finder / maze solver](https://github.com/AshishS-1123/Maze-Solver) and [also](https://github.com/ivan-ristovic/maze-pathfinder)
+- [skribbl.io in the terminal](https://github.com/elkowar/Termibbl)
+- [latex equation maker](https://github.com/marktext/marktext)
+- [terminal](https://st.suckless.org/)
+
+*Hyper links for references
