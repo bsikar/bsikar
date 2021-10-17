@@ -6,13 +6,13 @@ I am currently, as of writing this (2021), a senior in high school. I plan on ma
 
 <h2>Active Projects</h2>
  
-- [Sudoku Solver with real time backtrack](https://github.com/bsikar/sudoku)
-- [Scrabble Game](https://github.com/bsikar/scrabble)
-- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
+- [Window manager](https://github.com/bsikar/windex)
 
 <h2>Semi-Active Projects</h2>
 
-- [Window manager](https://github.com/bsikar/windex)
+- [Sudoku Solver with real time backtrack](https://github.com/bsikar/sudoku)
+- [Scrabble Game](https://github.com/bsikar/scrabble)
+- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
 
 <h2>Finished Projects</h2>
 
