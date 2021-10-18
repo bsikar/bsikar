@@ -22,7 +22,7 @@ I am currently, as of writing this (2021), a senior in high school. I plan on ma
 - [Snake](https://github.com/bsikar/snake)
 - [Image to Ascii converter](https://github.com/bsikar/image_to_ascii)
 
-<h2>Abandended Projects that I will return to</h2>
+<h2>Abandoned Projects that I will return to</h2>
 
 - [CLI Todo manager](https://github.com/bsikar/voodo)
 
