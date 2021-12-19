@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Brighton</h1>
 
 <h2>About Me</h2>
-Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in aerospace, os-dev, and improving my skills. As of writing this (2021), I am a senior in high school. I plan on majoring in computer science at either Texas ATM or University of Texas at Austin.
+Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in aerospace, os-dev, and improving my skills. As of writing this (2021), I am a senior in high school. I plan on majoring in computer science at either Texas A&M or University of Texas at Austin.
 
 <h2>Active Projects</h2>
  
