@@ -5,13 +5,11 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 
 <h2>Active Projects</h2>
  
-- [Window manager](https://github.com/bsikar/windex)
+- [Sudoku Solver with real time backtrack](https://github.com/bsikar/sudoku)
 
 <h2>Semi-Active Projects</h2>
 
-- [Sudoku Solver with real time backtrack](https://github.com/bsikar/sudoku)
-- [Scrabble Game](https://github.com/bsikar/scrabble)
-- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
+- None currently, but I am planning to start some abandoned projects
 
 <h2>Finished Projects</h2>
 
@@ -20,10 +18,14 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 - [Asteroids](https://github.com/bsikar/asteroids)
 - [Snake](https://github.com/bsikar/snake)
 - [Image to ASCII converter](https://github.com/bsikar/image_to_ascii)
+- [Video to ASCII converter](https://github.com/bsikar/video_to_ascii)
 
 <h2>Abandoned Projects that I will return to</h2>
 
 - [CLI Todo manager](https://github.com/bsikar/voodo)
+- [Window manager](https://github.com/bsikar/windex)
+- [Scrabble Game](https://github.com/bsikar/scrabble)
+- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
 
 <h2>Future Projects that I want to work on*</h2>
 
