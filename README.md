@@ -5,7 +5,7 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 
 <h2>Active Projects</h2>
  
-- [Sudoku Solver with real time backtrack](https://github.com/bsikar/sudoku)
+- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
 
 <h2>Semi-Active Projects</h2>
 
@@ -25,7 +25,6 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 - [CLI Todo manager](https://github.com/bsikar/voodo)
 - [Window manager](https://github.com/bsikar/windex)
 - [Scrabble Game](https://github.com/bsikar/scrabble)
-- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
 
 <h2>Future Projects that I want to work on*</h2>
 
