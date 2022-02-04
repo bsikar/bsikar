@@ -4,14 +4,14 @@
 Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in aerospace, os-dev, and improving my skills. As of writing this (2022), I am a senior in high school. I plan on majoring in computer science at Texas A&M.
 
 <h2>Active Projects</h2>
- 
-- [Tic-Tac-Toe](https://github.com/bsikar/tic-tac-toe)
+
+- [Scrabble Game](https://github.com/bsikar/scrabble)
 
 <h2>Semi-Active Projects</h2>
 
 - None currently, but I am planning to start some abandoned projects
 
-<h2>Finished Projects</h2>
+<h2>Some Finished Projects</h2>
 
 - [Tetris](https://github.com/bsikar/tetris)
 - [Brainfuck interpreter](https://github.com/bsikar/brainfuck)
@@ -24,7 +24,6 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 
 - [CLI Todo manager](https://github.com/bsikar/voodo)
 - [Window manager](https://github.com/bsikar/windex)
-- [Scrabble Game](https://github.com/bsikar/scrabble)
 
 <h2>Future Projects that I want to work on*</h2>
 
