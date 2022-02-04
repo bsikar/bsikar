@@ -17,7 +17,7 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 - [Brainfuck interpreter](https://github.com/bsikar/brainfuck)
 - [Asteroids](https://github.com/bsikar/asteroids)
 - [Snake](https://github.com/bsikar/snake)
-- [Image to ASCII converter](https://github.com/bsikar/image_to_ascii)
+- [Sudoku](https://github.com/bsikar/sudoku)
 - [Video to ASCII converter](https://github.com/bsikar/video_to_ascii)
 
 <h2>Abandoned Projects that I will return to</h2>
