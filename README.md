@@ -1,15 +1,15 @@
 <h1>Hi there, I'm Brighton</h1>
 
 <h2>About Me</h2>
-Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in aerospace, os-dev, and improving my skills. As of writing this (2022), I am a senior in high school. I plan on majoring in computer science at Texas A&M.
+Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who is interested in backend development and improving my skills. As of writing this (2022), I am a senior in high school. I plan on majoring in computer science at Texas A&M.
 
 <h2>Active Projects</h2>
 
-- [Scrabble Game](https://github.com/bsikar/scrabble)
+- [POS System](https://github.com/bsikar/pos-system)
 
 <h2>Semi-Active Projects</h2>
 
-- None currently, but I am planning to start some abandoned projects
+- [Scrabble Game](https://github.com/bsikar/scrabble)
 
 <h2>Some Finished Projects</h2>
 
@@ -17,8 +17,9 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer from America who
 - [Brainfuck interpreter](https://github.com/bsikar/brainfuck)
 - [Asteroids](https://github.com/bsikar/asteroids)
 - [Snake](https://github.com/bsikar/snake)
+- [Pong](https://github.com/bsikar/pong)
 - [Sudoku](https://github.com/bsikar/sudoku)
-- [Video to ASCII converter](https://github.com/bsikar/video_to_ascii)
+- [Video to ASCII converter](https://github.com/bsikar/video-to-ascii)
 
 <h2>Abandoned Projects that I will return to</h2>
 
