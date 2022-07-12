@@ -17,15 +17,6 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is intereste
 
 - [POS System](https://github.com/bsikar/pos-system)
 
-<h2>Semi-Active Projects</h2>
-
-- [Scrabble Game](https://github.com/bsikar/scrabble)
-
-<h2>Paused Projects</h2>
-
-- [CLI Todo manager](https://github.com/bsikar/voodo)
-- [Window manager](https://github.com/bsikar/windex)
-
 <h2>Future Projects*</h2>
 
 - [path finder / maze solver](https://github.com/AshishS-1123/Maze-Solver) and [also](https://github.com/ivan-ristovic/maze-pathfinder)
