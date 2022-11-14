@@ -6,6 +6,7 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is intereste
 <h2>Finished Projects</h2>
 
 - [Asteroids](https://github.com/bsikar/asteroids)
+- [2048 and CV](https://github.com/bsikar/2048-cpp)
 - [Brainfuck interpreter](https://github.com/bsikar/brainfuck)
 - [Pong](https://github.com/bsikar/pong)
 - [Snake](https://github.com/bsikar/snake)
