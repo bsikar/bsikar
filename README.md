@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Brighton</h1>
 
 <h2>About Me</h2>
-Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is interested in backend development, but open to full stack development. I am majoring in computer science at Texas ATM.
+Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is interested in backend development, but open to full stack development. I am majoring in Electronic Systems Engineering Technology (ESET) at Texas ATM.
 
 <h2>Finished Projects</h2>
 
