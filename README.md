@@ -14,9 +14,10 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is intereste
 - [Tetris](https://github.com/bsikar/tetris)
 - [Video to ASCII converter](https://github.com/bsikar/video-to-ascii)
 
-<h2>Active Projects</h2>
+<h2>Archived Projects</h2>
 
 - [POS System](https://github.com/bsikar/pos-system)
+- [spot-the-fy](https://github.com/bsikar/spot-the-fy)
 
 <h2>Future Projects*</h2>
 
