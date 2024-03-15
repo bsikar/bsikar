@@ -13,6 +13,7 @@ Hi, I'm Brighton Sikarskie, a passionate self-taught programmer who is intereste
 - [Sudoku](https://github.com/bsikar/sudoku)
 - [Tetris](https://github.com/bsikar/tetris)
 - [Video to ASCII converter](https://github.com/bsikar/video-to-ascii)
+- [Manga Combiner](https://github.com/bsikar/cbz-combiner)
 
 <h2>Archived Projects</h2>
 
